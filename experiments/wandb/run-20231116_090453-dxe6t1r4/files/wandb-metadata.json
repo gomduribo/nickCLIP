@@ -1,0 +1,167 @@
+{
+    "os": "Linux-5.4.0-166-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-11-16T09:04:53.888830",
+    "startedAt": "2023-11-16T09:04:53.046076",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "workspace/team2/yb_workspace/nickCLIP/experiments/baseline.ipynb",
+    "codePathLocal": null,
+    "root": "/workspace/team2/yb_workspace/nickCLIP",
+    "git": {
+        "remote": "https://github.com/gomduribo/nickCLIP.git",
+        "commit": "f5fd2909657d1c93879830f1272f6f7174508205"
+    },
+    "email": "syb6245@naver.com",
+    "host": "53ef84603f09",
+    "username": "root",
+    "executable": "/usr/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 1262.2932083333335,
+        "min": 1200.0,
+        "max": 3300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1376.788,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.436,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1198.021,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1297.776,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.961,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.995,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1343.537,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1361.554,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1696.917,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.868,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1198.147,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.658,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1252.092,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1198.472,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.759,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1270.057,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1198.006,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1198.316,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1459.002,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1285.567,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1537.638,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1199.903,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.918,
+            "min": 1200.0,
+            "max": 3300.0
+        },
+        {
+            "current": 1197.58,
+            "min": 1200.0,
+            "max": 3300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 195.8027114868164,
+            "used": 99.46181869506836
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 46.894474029541016
+    }
+}
