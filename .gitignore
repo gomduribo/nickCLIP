@@ -1,2 +1,4 @@
+experiments/trained_model/*
+experiments/wandb/*
 account*
 crawl/crawl_list/*.txt
